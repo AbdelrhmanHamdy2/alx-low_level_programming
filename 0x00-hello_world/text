@@ -1,0 +1,10 @@
+touch 0-preprocessor
+touch 100-intel
+touch 101-quote.c
+touch 1-compiler
+touch 2-assembler
+touch 3-name
+touch 4-puts.c
+touch 5-printf.c
+touch 6-size.c
+touch README.md
