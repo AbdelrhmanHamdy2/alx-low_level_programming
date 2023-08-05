@@ -12,9 +12,10 @@ int main(void)
 	long long ll;
 	float f;
 
-printf ("Size of a char: %d byte(s)",sizeof c);	
-printf ("Size of an int: %d byte(s)",sizeof d);
-printf ("Size of a long int: %d byte(s)",sizeof ld);
-printf ("Size of a long long: %d byte(s)",sizeof ll);
-printf ("Size of a float: %d byte(s)",sizeof f);
+printf ("Size of a char: %d byte(s)\n",sizeof c);	
+printf ("Size of an int: %d byte(s)\n",sizeof d);
+printf ("Size of a long int: %d byte(s)\n",sizeof ld);
+printf ("Size of a long long: %d byte(s)\n",sizeof ll);
+printf ("Size of a float: %d byte(s)\n",sizeof f);
+return (0);
 }
